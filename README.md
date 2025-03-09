@@ -37,5 +37,6 @@ The application uses a simple and user-friendly interface built with PyQt5:
 Password Input Field: A secure text field to enter the password for encryption and decryption.
 Buttons: Two main buttons for encrypting and decrypting files.
 
-OUTPUT
-Dialogs: Messages are shown to the user for success or failure
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/78d864bb-c4bf-43b9-8cea-2b8133b51aa3)
+
